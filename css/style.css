@@ -485,7 +485,7 @@ height: 7rem;
         /* ---------------toggle-------------------------- */
     
         background: #edf9ff;
-        height: 40vh;
+/*         height: 40vh; */
         font-size: 1.6rem;
         transition: all 0.5s ease;
     text-align: center;
